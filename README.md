@@ -1,3 +1,3 @@
 # hello-world-webapp
 
-extra trigger
+Some other text should go here.
